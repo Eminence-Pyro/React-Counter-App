@@ -2,7 +2,7 @@
 A simple, interactive counter application built with React, demonstrating state management with useState.
 
 ### Features
-•	📈 Increment and decrement 
+•	📈 Increment, Decrement and Reset
 
 ### functionality
 •	🔄 State management using React’s useState
@@ -10,21 +10,26 @@ A simple, interactive counter application built with React, demonstrating state 
 •	🧪 Unit tests for button interactions
 
 ### Installation & Setup
-1.	Clone the repository: 
+1.	Clone the repository:
+
 `https://github.com/Eminence-Pyro/React-Counter-App.git`
 
-2.	Navigate to the project directory: 
+3.	Navigate to the project directory:
+   
 `cd React-Counter-App`
 
-3.	Install dependencies: 
+5.	Install dependencies:
+   
 `npm install`
 
-4.	Start the development server: 
+7.	Start the development server: 
+
 `npm start`
 
 ### Usage
 •	Click the Increment button to increase the count.
 •	Click the Decrement button to decrease the count.
+Click the Reset button to reset count
 
 ### Project Structure
 
